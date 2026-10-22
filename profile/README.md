@@ -106,6 +106,4 @@ Every mod here is open source. Subscribe on the Steam Workshop for one-click ins
 
 *If one of these mods made your campaign better, a Workshop thumbs-up or a star on the repo goes a long way.*
 
-![Visitors](https://komarev.com/ghpvc/?username=Vaporjawn-Mods&color=blueviolet&label=Friendly+Visitors&style=flat-square)
-
 </div>
